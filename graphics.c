@@ -10,7 +10,6 @@
 
 #define M_PI 3.14159265
 
-
 /**HoverInfo: Displays the city name on mouse hover
 */
 void HoverInfo(char *_cityName, TTF_Font *_font, SDL_Renderer *_renderer, int _posX, int _posY) {
