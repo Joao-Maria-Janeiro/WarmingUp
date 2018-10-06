@@ -21,10 +21,10 @@ $  gcc *.c -g -I/usr/local/include -Wall -pedantic -std=c99 -L/usr/local/lib -lm
 
 If you want the textual mode simply run:
 ```
-$ ./WarmingUp -f2 tempcities.csv -f1 tempcountries.csv -t
+$ ./WarmingUp -f2 tempcities.csv -f1 tempcountries_all.csv -t
 ```
 
 If you want the graphical mode run:
 ```
-$ ./WarmingUp -f2 tempcities.csv -f1 tempcountries.csv -g
+$ ./WarmingUp -f2 tempcities.csv -f1 tempcountries_all.csv -g
 ```
