@@ -1,6 +1,6 @@
 # WarmingUp
 
-Final Project for the programming course of electrical and computer engineering first year second semester
+Final Project for the programming course of electrical and computer engineering first year second semester where I got a score of 19/20
 
 ## What you need to install
 * SDL2
